@@ -12,6 +12,10 @@
 
 @property (strong, nonatomic) UIWindow *window;
 
-
+- (void) showWaitView:(NSString *) str;
+- (void) showWaitView;
+- (void) hideWaitView;
+- (void) logoutQuickBox;
 @end
+#define _gAppDelegate (AppDelegate *)[UIApplication sharedApplication].delegate
 
