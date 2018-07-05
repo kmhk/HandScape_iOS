@@ -26,4 +26,4 @@ This is chat app using quickblox for iOS
 
 ## Screenshots
 
-<iframe width="854" height="480" src="https://www.dropbox.com/s/xzsazjnvh4tnm86/Quickblox_ChatVideo.mov?dl=0" frameborder="0" allowfullscreen></iframe>
+[![video](video_thumb.jpg)](https://www.dropbox.com/s/xzsazjnvh4tnm86/Quickblox_ChatVideo.mov?dl=0)
