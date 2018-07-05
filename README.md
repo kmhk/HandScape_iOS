@@ -26,4 +26,4 @@ This is chat app using quickblox for iOS
 
 ## Screenshots
 
-[![video](https://github.com/kmhk/HandScape_iOS/blob/master/Chat/Assets.xcassets/AppIcon.appiconset/icon%40180.png)](https://www.dropbox.com/s/xzsazjnvh4tnm86/Quickblox_ChatVideo.mov?dl=0)
+[![video](video_thumb.jpg)](https://www.dropbox.com/s/xzsazjnvh4tnm86/Quickblox_ChatVideo.mov?dl=0)
