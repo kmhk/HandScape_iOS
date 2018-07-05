@@ -24,6 +24,6 @@ This is chat app using quickblox for iOS
 **_git_**:		[_kmhk_](https://github.com/kmhk)
 
 
-## Screenshots
+## Screen Video
 
 [![video](thumb_video.jpg)](https://www.dropbox.com/s/xzsazjnvh4tnm86/Quickblox_ChatVideo.mov?dl=0)
